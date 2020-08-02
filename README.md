@@ -1,5 +1,7 @@
 # Box Shooter
 
-  [View](https://mojammelhossain.github.io/box-shooter) on Github pages
+  [View](https://mojammelhossain.github.io/box-shooter) on Github pages.
   
-  Change position of camera by mouse and shooter using space or by click mouse left button
+  Change target using mouse and shoot by space key or click mouse left button.
+  
+  **note: note available on android work in progress
