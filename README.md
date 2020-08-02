@@ -4,4 +4,4 @@
   
   Change target using mouse and shoot by space key or click mouse left button.
   
-  **note: note available on android work in progress
+  # note: not available on android work in progress.
